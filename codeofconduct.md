@@ -75,7 +75,7 @@ These actions are explicitly forbidden in INF3480/4380 community:
 
 ### Changes
 We reserve the right to modify this page at any time at its discretion and without notice.
-If you feel there are aspects to this code of conduct which should be modified, please open a pull request with your suggested changes [here](https://github.com/KvalheimRacing/INF3480/codeofconduct.md)
+If you feel there are aspects to this code of conduct which should be modified, please open a pull request with your suggested changes [here](https://github.com/KvalheimRacing/INF3480/blob/master/codeofconduct.md)
 
 
 ### Public archiving
