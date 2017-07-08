@@ -1,7 +1,7 @@
 # Resources useful in the course
 
 ## Nr 1.
-https://www.youtube.com/playlist?list=PL5UsVy69u1JUj6PsB5LRJZ_ibvHNsD6Sr
+https://www.youtube.com/watch?v=fsF7enQY8uI&list=PL5UsVy69u1JUj6PsB5LRJZ_ibvHNsD6Sr
 
 ### If you need brushing up on linnear algebra:
 https://www.youtube.com/watch?v=kYB8IZa5AuE&index=4&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
