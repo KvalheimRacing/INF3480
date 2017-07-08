@@ -22,7 +22,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 
 ### INF3480/4380 Challenge values
-These are the values to which people in the NorBot Challenge community should aspire.
+These are the values to which people in the INF3480 community should aspire.
 
 - Be friendly and welcoming
 - Be patient
