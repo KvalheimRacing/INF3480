@@ -23,7 +23,7 @@ for i = 1:n
 
     % 3 Dimensional matrix to hold all link tensor matrices
     Inertia_tensors{i} = [IxxLi,     0,     0;
-                                  0, IyyLi,     0;
-                                  0,     0, IzzLi]
+                              0, IyyLi,     0;
+                              0,     0, IzzLi]
 
 end
